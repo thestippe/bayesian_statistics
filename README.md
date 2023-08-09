@@ -5,3 +5,9 @@
 _AKA statistics made simple with Python_
 
 </header>
+
+## Test
+
+Some text
+
+$$ A x = b $$
